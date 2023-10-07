@@ -1,6 +1,5 @@
 # Hi there, i'm Max! 
 
-- IOS Developer & Ui designer
 - Web Developer (Frontend / Backend)
 - Max 18 from Germany 
 
